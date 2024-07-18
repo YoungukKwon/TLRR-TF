@@ -1,2 +1,2 @@
 # TLRR-TF
- Tensor low-rank representatiion with tri-factorization
+ Tensor low-rank representation via tri-factorization
